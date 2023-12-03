@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Budget Buddy](github.com/SK-x7/Budget_Buddy)
 
-- 🌱 I’m currently learning **Data Structures And Algorithms**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [github.com/EAGLEARCHER?tab=repositories](github.com/EAGLEARCHER?tab=repositories)
 
