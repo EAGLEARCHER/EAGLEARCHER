@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bheru Singh Panwar</h1>
 <h3 align="center">A passionate Software developer from India excited to learn and contribute to developers community</h3>
 
-- 🔭 I’m currently working on [Budget Buddy](github.com/SK-x7/Budget_Buddy)
-
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [github.com/EAGLEARCHER?tab=repositories](github.com/EAGLEARCHER?tab=repositories)
 
